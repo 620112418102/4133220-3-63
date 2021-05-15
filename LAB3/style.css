@@ -1,0 +1,23 @@
+    body {
+        font-family: 'Prompt', sans-serif;
+    }
+    
+    h1 {
+        color: blue
+    }
+    
+    p {
+        margin: -10px 0px -10px 0px;
+    }
+    
+    strong {
+        background: green;
+    }
+    
+    #it {
+        color: white;
+    }
+    
+    .bg-yellow {
+        background: yellow;
+    }
